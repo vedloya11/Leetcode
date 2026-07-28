@@ -27,33 +27,5 @@ class Solution {
     }
     }
         
-        
-        // if(len % 2 !=0){
-        //     StringBuilder first = new StringBuilder();
-        //     for(int i = 0 ; i <26 ;i++){
-        //         if(arr[i]>0){
-        //             first.append((char)(i +'a'));
-        //         }    
-        //     }
-        //     StringBuilder second = new StringBuilder(first).reverse();
-        //     for(int i = 0 ; i <26 ;i++){
-        //         if(arr[i]!=0){
-        //             ans.append((char)(i+'a'));
-        //         }  
-        //     }
-        //     return first.toString()+ans.toString()+second.toString();
-            
-        // }else{
-        //     for(int i = 0 ; i <26 ;i++){
-        //          if(arr[i]>0){
-        //             ans.append((char)(i + 'a'));
-        //         }
-        //     }
-        //     for(int i = 25 ; i >=0 ; i--){
-        //          if(arr[i]>0){
-        //             ans.append((char)(i + 'a'));
-        //         }
-        //     }
-        // }
-        // return ans.toString();
+    
         
