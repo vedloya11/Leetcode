@@ -5,7 +5,7 @@ class Solution {
         for(int c : candyType){
             set.add(c);
         }
-        if(set.size() > n/2){
+        if(set.size() >= n/2){
             return n/2;
         }else{
             return set.size();
