@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vedloya11/Leetcode/tree/master/0268-missing-number) |
+| [1510-stone-game-iv](https://github.com/vedloya11/Leetcode/tree/master/1510-stone-game-iv) |
 | [3099-harshad-number](https://github.com/vedloya11/Leetcode/tree/master/3099-harshad-number) |
 ## Heap (Priority Queue)
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vedloya11/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1510-stone-game-iv](https://github.com/vedloya11/Leetcode/tree/master/1510-stone-game-iv) |
 ## Sliding Window
 |  |
 | ------- |
@@ -101,4 +103,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/vedloya11/Leetcode/tree/master/1929-concatenation-of-array) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/vedloya11/Leetcode/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/vedloya11/Leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/vedloya11/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/vedloya11/Leetcode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/vedloya11/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
