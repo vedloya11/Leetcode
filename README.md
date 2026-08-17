@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vedloya11/Leetcode/tree/master/0268-missing-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vedloya11/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1510-stone-game-iv](https://github.com/vedloya11/Leetcode/tree/master/1510-stone-game-iv) |
 | [3099-harshad-number](https://github.com/vedloya11/Leetcode/tree/master/3099-harshad-number) |
 ## Heap (Priority Queue)
