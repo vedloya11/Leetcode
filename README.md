@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vedloya11/Leetcode/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/vedloya11/Leetcode/tree/master/0575-distribute-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vedloya11/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1920-build-array-from-permutation](https://github.com/vedloya11/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vedloya11/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vedloya11/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vedloya11/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/vedloya11/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vedloya11/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vedloya11/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Minimax
