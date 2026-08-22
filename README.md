@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/vedloya11/Leetcode/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/vedloya11/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vedloya11/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vedloya11/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/vedloya11/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/vedloya11/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vedloya11/Leetcode/tree/master/0268-missing-number) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vedloya11/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vedloya11/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/vedloya11/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
