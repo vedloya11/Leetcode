@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vedloya11/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vedloya11/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/vedloya11/Leetcode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vedloya11/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/vedloya11/Leetcode/tree/master/0575-distribute-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vedloya11/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1920-build-array-from-permutation](https://github.com/vedloya11/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vedloya11/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vedloya11/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vedloya11/Leetcode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vedloya11/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/vedloya11/Leetcode/tree/master/0575-distribute-candies) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vedloya11/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vedloya11/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
