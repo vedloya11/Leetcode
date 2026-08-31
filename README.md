@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/vedloya11/Leetcode/tree/master/2235-add-two-integers) |
 | [3099-harshad-number](https://github.com/vedloya11/Leetcode/tree/master/3099-harshad-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vedloya11/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3945-digit-frequency-score](https://github.com/vedloya11/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vedloya11/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vedloya11/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/vedloya11/Leetcode/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/vedloya11/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
 |  |
 | ------- |
