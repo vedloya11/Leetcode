@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vedloya11/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1510-stone-game-iv](https://github.com/vedloya11/Leetcode/tree/master/1510-stone-game-iv) |
 | [2235-add-two-integers](https://github.com/vedloya11/Leetcode/tree/master/2235-add-two-integers) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/vedloya11/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3099-harshad-number](https://github.com/vedloya11/Leetcode/tree/master/3099-harshad-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vedloya11/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vedloya11/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vedloya11/Leetcode/tree/master/0204-count-primes) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/vedloya11/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
