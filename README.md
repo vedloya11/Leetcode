@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vedloya11/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/vedloya11/Leetcode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/vedloya11/Leetcode/tree/master/0682-baseball-game) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vedloya11/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vedloya11/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1920-build-array-from-permutation](https://github.com/vedloya11/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vedloya11/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vedloya11/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vedloya11/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/vedloya11/Leetcode/tree/master/0268-missing-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vedloya11/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2540-minimum-common-value](https://github.com/vedloya11/Leetcode/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
