@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/vedloya11/Leetcode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/vedloya11/Leetcode/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vedloya11/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/vedloya11/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vedloya11/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1920-build-array-from-permutation](https://github.com/vedloya11/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vedloya11/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/vedloya11/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/vedloya11/Leetcode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vedloya11/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/vedloya11/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1510-stone-game-iv](https://github.com/vedloya11/Leetcode/tree/master/1510-stone-game-iv) |
 | [2235-add-two-integers](https://github.com/vedloya11/Leetcode/tree/master/2235-add-two-integers) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/vedloya11/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
